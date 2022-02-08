@@ -7,6 +7,8 @@
 
 Start | Middle | End
 ------ | ------|----------
- 1     | 2     | 3
+ 1     | 2     | 3  
+ 
+ https://github.com/SasaJovanovic90/authoring.git
  
 
