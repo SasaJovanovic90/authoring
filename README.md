@@ -1,5 +1,5 @@
 # Markdown mit Github Geschmack  
-## <input type="checkbox" value="Externer Link">  
-## <input type="checkbox" value="Interner Link">  
-## <input type="checkbox" value="Bilder">  
-## <input type="checkbox" value="Emojis">  
+## <input type="checkbox" name="Externer Link">  
+## <input type="checkbox" name="Interner Link">  
+## <input type="checkbox" name="Bilder">  
+## <input type="checkbox" name="Emojis">  
