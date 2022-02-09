@@ -12,7 +12,7 @@ Start | Middle | End
 ![Externer Link zur Github Dokumentation](https://github.com/SasaJovanovic90/authoring.git)  
  
  ## Interner Link und Bilder
-![interner Link](/authoring/image/137249-games-review-dark-souls-3-review-image1-t9o4hek6l3-jpg.webp)
+![interner Link](/authoring/137249-games-review-dark-souls-3-review-image1-t9o4hek6l3-jpg.webp)
 
 ⚔️ ☦️ ⚔️ 👑 ⚔️ 🐉  
 
